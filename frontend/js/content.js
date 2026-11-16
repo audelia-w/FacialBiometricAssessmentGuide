@@ -500,7 +500,7 @@ const OUTCOMES = {
     next: "Continue to Implement.",
   },
   return: {
-    n: "More evidence needed",
+    n: "Return for evidence",
     d: "A decision cannot yet be supported because material evidence is missing. Identify what further information is needed.",
     next: "Return to Assess.",
   },
